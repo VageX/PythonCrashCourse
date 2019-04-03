@@ -1,0 +1,10 @@
+players = ['charles', 'martina', 'michael', 'florence', 'eli']
+print(players[0:3])
+print("\t")
+print(players[1:4])
+print("\t")
+print(players[:4])
+print("\t")
+print(players[2:])
+print("\t")
+print(players[-3:])
