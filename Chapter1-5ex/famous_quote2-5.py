@@ -1,0 +1,1 @@
+print('Shannon Sharpe once said, "If a frog had pockets, it would carry a knife; stab the snake before it ate him."')
