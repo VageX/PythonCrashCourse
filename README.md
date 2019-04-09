@@ -29,3 +29,8 @@ test
 # If-Elif-Else Chain
 # Using If Statements with Lists - Checking for Special Items and if the list is not empty.
 # Completed 4/3/19.
+
+# Chapter 6 - Dictionaries.
+# Learned how to access and modify individual elements in a dictionary.
+# Looped through all of the information in a dictionary.
+# Nested multiple dictionaries in a list, nest lists in a dictionary, and nest a dictionary inside a dictionary.
