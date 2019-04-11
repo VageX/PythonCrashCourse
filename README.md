@@ -34,3 +34,12 @@ test
 # Learned how to access and modify individual elements in a dictionary.
 # Looped through all of the information in a dictionary.
 # Nested multiple dictionaries in a list, nest lists in a dictionary, and nest a dictionary inside a dictionary.
+# Completed 4/9/19.
+
+# Chapter 7 - User Inputs and While Loops.
+# Learned how to use input().
+# Worked with both text and numerical input (using int())
+# Used While loops to make programs run as long as users want them to.
+# Utilized continue, break, and active flags.
+# Learned how to use a while loop to move items from one list to another and remove all instances of a value from a list.
+# Learned how while loops can be used with dictionaries.
