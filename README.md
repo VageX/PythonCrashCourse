@@ -43,3 +43,10 @@ test
 # Utilized continue, break, and active flags.
 # Learned how to use a while loop to move items from one list to another and remove all instances of a value from a list.
 # Learned how while loops can be used with dictionaries.
+
+# Chapter 8 - Functions
+# Learned how to write functions
+# Used positional and keyword arguments and how to accept an arbritary number of arguments.
+# Learned how to use functions with lists, dictionaries, if statements, and while loops.
+# Stored functions in separate files called modules.
+# Learned how to style functions per PEP 8.
