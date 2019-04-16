@@ -60,3 +60,9 @@ test
 # Stored classes in modules and imported classes into files
 # Introduced to the Python standard library and saw an example how OrderedDict can be useful.
 # Learned how to style classes.
+
+# Chapter 10 - Files and Exceptions
+# Learned to read an entire file at once.
+# Learned to write to a file and append text onto the end of a file.
+# Read about exceptions and how to handle the exceptions.
+# Learned how to store Python data structures so you can save information your users provide.
