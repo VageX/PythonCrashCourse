@@ -66,3 +66,8 @@ test
 # Learned to write to a file and append text onto the end of a file.
 # Read about exceptions and how to handle the exceptions.
 # Learned how to store Python data structures so you can save information your users provide.
+
+# Chapter 11 - Testing Your Code
+# Learned to write tests for functions and classes using unittest module.
+# Write a class that inherits from unittest.TestCase.
+# Learned to use the setUp() method.
