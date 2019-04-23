@@ -1,0 +1,4 @@
+In Python you can create lists and dictionaries to store and call upon information.
+In Python you can create if statements to check for multiple conditions.
+In Python you can allow users to input information into your program.
+In Python you can create function and class modules to automate actions.
